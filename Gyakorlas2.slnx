@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="FilmApp/FilmApp.csproj" />
+  <Project Path="Homerseklet/Homerseklet.csproj" />
+  <Project Path="KavezogepApp/KavezogepApp.csproj" />
+  <Project Path="TelefonApp/TelefonApp.csproj" />
 </Solution>
